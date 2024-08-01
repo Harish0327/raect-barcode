@@ -1,10 +1,12 @@
+import React from 'react';
+import { Userid } from './components/Fett';
 
-import Add from './components/Fett'
-function App(){
-  return(
-    <>
-    <Add/>
-    </>
-  )
+function App() {
+  return (
+    <div className="container">
+      <Userid />
+    </div>
+  );
 }
- export default App
+
+export default App;

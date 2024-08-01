@@ -1,0 +1,81 @@
+body{
+    background-color: bisque;
+    overflow-x: hidden  ;
+}
+.con h1{
+    position: fixed;
+    left: 600px;
+}
+.con img{
+position: absolute;
+left: 600px;
+top: 100px;
+}
+#ho{
+    position: relative;
+    left: 590px;
+    top: 340px;
+}
+#ho2{
+    position: relative;
+    left: 590px;
+    top: 340px;
+}
+#box1{
+    position: relative;
+    left: 580px;
+    top: 339px;
+    width: 300px;
+    height: 31px;
+    border: 2px solid rgb(222, 50, 70);
+    border-radius: 5px;
+}
+#box2{
+    position: relative;
+    left: 580px;
+    top: 339px;
+    width: 300px;
+    height: 31px;
+    border: 2px solid rgb(222, 50, 70);
+    border-radius: 5px;
+}
+.btn1{
+    position: absolute;
+    top: 570px;
+    left: 770px;
+    background-color: rgb(125, 55, 55);
+    color:wheat;
+    border: 1px solid blue;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    padding: 3px;
+    
+}
+.btn2{
+    position: absolute;
+    top: 570px;
+    left: 590px;
+    background-color: rgb(125, 55, 55);
+    color:wheat;
+    border: 1px solid blue;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    padding: 3px;
+    
+}
+.con p{
+    position: fixed;
+    top: 630px;
+    left: 660px;
+}
+#spa{
+    font-style:oblique;
+    color: rgb(13, 13, 220);
+}
+#pa{
+    position: relative;
+    top: 200px;
+}
+
